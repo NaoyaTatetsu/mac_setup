@@ -55,6 +55,7 @@ sh programming.sh
 ```
 
 ## 2-4. `.zprofile`と`.zshrc`にパスなどを記述
+事前にpreztoやoh my zeshなどの設定を済ませておく。
 ```
 sh zprofile.sh
 ```
